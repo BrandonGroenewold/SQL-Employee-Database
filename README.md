@@ -1,4 +1,4 @@
-# SQL-challenge
+# SQL-Employee-Database
 Solution to employee data base
 
 #### Create an ERD

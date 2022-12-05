@@ -1,5 +1,5 @@
 # SQL-Employee-Database
-Solution to employee data base
+How to recreate
 
 #### Create an ERD
  - go to quickdatabasediagrams.com to create the diagram
